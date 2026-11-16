@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-package-manager2"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS package-manager2 component"
+
+[lib]
+name = "package_manager2"
+path = "src/lib.rs"
