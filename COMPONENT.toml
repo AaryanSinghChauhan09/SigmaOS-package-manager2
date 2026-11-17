@@ -3,7 +3,7 @@ name = "SigmaOS-package-manager2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "package-manager2 component"
+description = "Package Manager package manager compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
