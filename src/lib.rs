@@ -7,6 +7,9 @@
 /// Package management module.
 pub mod sigmapackagemanager2;
 
+/// Package manager module.
+pub mod sigmapkg;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
