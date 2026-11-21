@@ -7,6 +7,9 @@
 /// Package management module.
 pub mod sigmapackagemanager2;
 
+/// Unified package management interface (APT/Pacman-style).
+pub mod sigmapackagemanager;
+
 /// Package manager module.
 pub mod sigmapkg;
 
